@@ -1,6 +1,6 @@
 {
   "SERVER_TOKEN_ENABLED": true,
-  "use_own_token": false,
+  "USE_OWN_TOKEN": false,
   "AI_TOKEN": "",
   "AI_MODEL": "",
   "users": [
