@@ -1,17 +1,16 @@
 {
   "SERVER_TOKEN_ENABLED": true,
+  "use_own_token": false,
   "AI_TOKEN": "",
   "AI_MODEL": "",
   "users": [
     {
       "user_id": 5731435264,
-      "use_own_token": false,
       "ai_token": "",
       "ai_model": ""
     },
     {
       "user_id": 9999,
-      "use_own_token": false,
       "ai_token": "",
       "ai_model": ""
     }
