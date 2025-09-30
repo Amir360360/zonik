@@ -2,17 +2,15 @@
   "SERVER_TOKEN_ENABLED": true,
   "USE_OWN_TOKEN": false,
   "AI_TOKEN": "",
-  "AI_MODEL": "",
+  "AI_MODEL": "x-ai/grok-4-fast:free",
   "users": [
     {
       "user_id": 5731435264,
-      "ai_token": "",
-      "ai_model": ""
+      "ai_token": ""
     },
     {
       "user_id": 9999,
-      "ai_token": "",
-      "ai_model": ""
+      "ai_token": ""
     }
   ]
 }
