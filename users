@@ -1,0 +1,13 @@
+{
+  "SERVER_TOKEN_ENABLED": true,
+  "AI_TOKEN": "",
+  "AI_MODEL": "",
+  "users": [
+    {
+      "user_id": 999,
+      "use_own_token": false,
+      "ai_token": "",
+      "ai_model": ""
+    }
+  ]
+}
