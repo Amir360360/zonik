@@ -1,5 +1,5 @@
 {
-  "SERVER_TOKEN_ENABLED": false,
+  "SERVER_TOKEN_ENABLED": true,
   "USE_OWN_TOKEN": false,
   "AI_TOKEN": "",
   "AI_MODEL": "x-ai/grok-4-fast:free",
