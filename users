@@ -1,7 +1,7 @@
 {
   "SERVER_TOKEN_ENABLED": true,
   "USE_OWN_TOKEN": false,
-  "AI_TOKEN": "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",
+  "AI_TOKEN": "c2stb3ItdjEtMzVkMjIzZDFlNjhkOWMzZGVlYjQwOGQxYTAzYjc2M2JmNzA5OTQwZDIxODcxZDY5YzdhYmU1ZDI4MzAwZTJmYQ==",
   "AI_MODEL": "x-ai/grok-4-fast:free",
   "users": [
     {
