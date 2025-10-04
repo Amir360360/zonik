@@ -3,6 +3,7 @@
   "USE_OWN_TOKEN": false,
   "AI_TOKEN": "",
   "AI_MODEL": "x-ai/grok-4-fast:free",
+  "python_version": "3.10.6",
   "users": [
     {
       "user_id": 11111,
