@@ -5,7 +5,7 @@
   "AI_MODEL": "x-ai/grok-4-fast:free",
   "users": [
     {
-      "user_id": 5731435264,
+      "user_id": 11111,
       "ai_token": ""
     },
     {
